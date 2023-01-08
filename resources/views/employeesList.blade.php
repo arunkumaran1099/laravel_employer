@@ -1,4 +1,10 @@
-<table border=1 align=center >
+<style>
+.table{
+      margin-top:50px
+}
+</style>
+<div class=table>
+<table border=1 align=center width=100% >
     <tr>
         <th>Sno</th>
         <th>EName</th>
@@ -26,3 +32,4 @@
     </tr>
     @endforeach
 </table>
+<div>
